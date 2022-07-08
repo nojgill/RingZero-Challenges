@@ -34,7 +34,7 @@ After a bit of tinkering and getting the syntax right, a magic string that worke
 
 You can pop whatever you like into the username field (but it cannot be empty).  Result in:
 
-![](01.PNG)
+![](02.PNG)
 
 ## Summary
 
